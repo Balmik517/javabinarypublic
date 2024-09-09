@@ -1,0 +1,2 @@
+# javabinarypublic
+binary for testing
